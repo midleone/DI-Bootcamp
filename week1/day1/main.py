@@ -63,25 +63,48 @@
 # else:
 #     print("Sorry, you need to grow some more to ride")
 
-#Daily Challenge: Build Up A String
 
-import random
+#Exercises XP Gold
+#EX1
+# print('Hello world')
+# print('Hello world')
+# print('Hello world')
+# print('Hello world')
+# print('I love python')
+# print('I love python')
+# print('I love python')
+# print('I love python')
 
-user_string = input("Enter a string (10 characters long): ")
-if len(user_string) < 10:
-    print("String not long enough.")
-elif len(user_string) > 10:
-    print("String too long.")
-else:
-    print("Perfect string!")
+# #EX2
+# user_month= int(input ('input a month from 1 to 12:'))
+# if 3 <= user_month <= 5:
+#     print("Spring")
+# elif 6 <= user_month <= 8:
+#     print("Summer")
+# elif 9 <= user_month <= 11:
+#     print("Autumn")
+# elif user_month == 12 or 1 <= user_month <= 2:
+#     print("WINTER")
 
-print("First character:", user_string[0])
-print("Last character:", user_string[-1])
-print("Constructing the string character by character:")
-for char in user_string:
-        print(char)
-
-shuffled_string = list(user_string)
-random.shuffle(shuffled_string)
-shuffled_string = ''.join(shuffled_string)
-print("Jumbled string:", shuffled_string)
+# #Daily Challenge: Build Up A String
+#
+# import random
+#
+# user_string = input("Enter a string (10 characters long): ")
+# if len(user_string) < 10:
+#     print("String not long enough.")
+# elif len(user_string) > 10:
+#     print("String too long.")
+# else:
+#     print("Perfect string!")
+#
+# print("First character:", user_string[0])
+# print("Last character:", user_string[-1])
+# print("Constructing the string character by character:")
+# for char in user_string:
+#         print(char)
+#
+# shuffled_string = list(user_string)
+# random.shuffle(shuffled_string)
+# shuffled_string = ''.join(shuffled_string)
+# print("Jumbled string:", shuffled_string)
