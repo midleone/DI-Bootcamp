@@ -122,4 +122,4 @@ while sandwich_orders:
 
 print("\nList of finished sandwiches:")
 for sandwich in finished_sandwiches:
-    print(sandwich))
+    print(sandwich)
