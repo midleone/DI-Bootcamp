@@ -1,5 +1,5 @@
-#EX1
-# my_fav_numbers= set()
+# #EX1
+# # my_fav_numbers= set()
 # my_fav_numbers={13,2,5}
 # my_fav_numbers.add(11)
 # my_fav_numbers.add(4)
@@ -9,7 +9,7 @@
 #
 # print(my_fav_numbers)
 #
-# friend_fav_numbers = set()
+# # friend_fav_numbers = set()
 # friend_fav_numbers = {7,9,0,5}
 #
 # our_fav_numbers= set.union(my_fav_numbers,friend_fav_numbers)
@@ -19,7 +19,7 @@
 # EX2
 # no, we cant
 
-#EX3
+# #EX3
 # basket = ["Banana", "Apples", "Oranges", "Blueberries"]
 # basket.append('kivi')
 # basket.append('Apples')
@@ -33,19 +33,20 @@
 
 
 # #EX4
+# my_list = []
+# for x in range(3,11):
+#     my_list.append(x / 2)
+
+#
 # my_list = [x / 2 for x in range(3,11)]
 # print(my_list)
 
 #EX5
+# a = range(1, 21)
+# for x in a:
+#     if a.index(x) % 2 == 0:
+#         print(x)
 
-#
-# for number in range(1, 21):
-#     print(number)
-
-#
-# for number in range(1, 21):
-#     if number % 2 == 0:
-#         print(number)
 
 
 # #EX6
@@ -59,7 +60,7 @@
 
 #EX7
 # user_fruit =input("Enter your favorite fruits separated by a space: ")
-# favorite_fruits = user_fruit.split()
+# favorite_fruits = user_fruit.split(" ")
 # user_input_fruit = input("Enter a fruit name: ")
 # if user_input_fruit in favorite_fruits:
 #     print("You chose one of your favorite fruits! Enjoy!")
@@ -108,18 +109,18 @@
 # print(f"\nThe total cost for the family's tickets is ${total_cost}")
 
 #EX10
-
-sandwich_orders = ["Tuna sandwich", "Pastrami sandwich", "Avocado sandwich", "Pastrami sandwich", "Egg sandwich", "Chicken sandwich", "Pastrami sandwich"]
-finished_sandwiches= []
-while "Pastrami sandwich" in sandwich_orders:
-    sandwich_orders.remove("Pastrami sandwich")
-finished_sandwiches = []
-
-while sandwich_orders:
-    current_sandwich = sandwich_orders.pop()
-    finished_sandwiches.append(current_sandwich)
-    print(f"Making {current_sandwich}.")
-
-print("\nList of finished sandwiches:")
-for sandwich in finished_sandwiches:
-    print(sandwich)
+#
+# sandwich_orders = ["Tuna sandwich", "Pastrami sandwich", "Avocado sandwich", "Pastrami sandwich", "Egg sandwich", "Chicken sandwich", "Pastrami sandwich"]
+# finished_sandwiches= []
+# while "Pastrami sandwich" in sandwich_orders:
+#     sandwich_orders.remove("Pastrami sandwich")
+# finished_sandwiches = []
+#
+# while sandwich_orders:
+#     current_sandwich = sandwich_orders.pop()
+#     finished_sandwiches.append(current_sandwich)
+#     print(f"Making {current_sandwich}.")
+#
+# print("\nList of finished sandwiches:")
+# for sandwich in finished_sandwiches:
+#     print(sandwich)
