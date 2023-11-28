@@ -126,15 +126,15 @@
 #     print(sandwich)
 
 
-#Daily chalange
-
-user_word = "ppoeemm"
-output =user_word[0]
-#output - P
-for i, char in enumerate(user_word):
-    if user_word[i] != user_word[i+1]:
-        output += char
-
-print(output)
-
+# #Daily chalange
+#
+# user_word = "ppoeemm"
+# output =user_word[0]
+# #output - P
+# for i, char in enumerate(user_word):
+#     if user_word[i] != user_word[i+1]:
+#         output += char
+#
+# print(output)
+#
 
