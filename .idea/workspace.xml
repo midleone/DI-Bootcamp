@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="79e5aebc-3766-4cf8-84cf-321e7b2df72d" name="Changes" comment="second day">
-      <change afterPath="$PROJECT_DIR$/week1/day3/Exercises XP/__init__.py" afterDir="false" />
+    <list default="true" id="79e5aebc-3766-4cf8-84cf-321e7b2df72d" name="Changes" comment="thritd day">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week1/day2/Exercises XP.py" beforeDir="false" afterPath="$PROJECT_DIR$/week1/day2/Exercises XP.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -167,7 +165,15 @@
       <option name="project" value="LOCAL" />
       <updated>1701159982596</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="thritd day">
+      <option name="closed" value="true" />
+      <created>1701176029455</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1701176029455</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -184,7 +190,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first day" />
     <MESSAGE value="second day" />
-    <option name="LAST_COMMIT_MESSAGE" value="second day" />
+    <MESSAGE value="thritd day" />
+    <option name="LAST_COMMIT_MESSAGE" value="thritd day" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
