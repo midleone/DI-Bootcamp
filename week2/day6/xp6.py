@@ -1,22 +1,30 @@
 #EX1
 
-# class Cat():
-#     def __init__(self, cat_name, cat_age):
-#         self.name = cat_name
-#         self.age = cat_age
-#
-#
-# cat1 = Cat("kiki", 7)
-# cat2 = Cat("licky",3 )
-# cat3 = Cat("miki", 6)
-#
-# cat_list = [cat1, cat2, cat3]
-#
+class Cat():
+    def __init__(self, cat_name, cat_age):
+        self.name = cat_name
+        self.age = cat_age
+
+
+cat1 = Cat("kiki", 7)
+cat2 = Cat("licky",3 )
+cat3 = Cat("miki", 6)
+
+cat_list = [cat1, cat2, cat3]
+def oldest(cats_list:list):
+    oldest = [cat_list[0]]
+    for cat in cat_list:
+        if cat.age > oldest[0].age:
+            oldest = cat
+    return oldest
+
+print(oldest(cat_list))
+
 # old_cat = max(cat1.age, cat2.age, cat3.age)
 #
 # print(old_cat)
-#
-# print(f"The oldest cat is {old_cat.name}, and is {old_cat.age} years old")
+
+print(f"The oldest cat is {oldest[0].name}, and is {oldest[0].age} years old")
 
 #
 # #EX2
