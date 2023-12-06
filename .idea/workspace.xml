@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="79e5aebc-3766-4cf8-84cf-321e7b2df72d" name="Changes" comment="thritd day" />
+    <list default="true" id="79e5aebc-3766-4cf8-84cf-321e7b2df72d" name="Changes" comment="6 day">
+      <change afterPath="$PROJECT_DIR$/week2/day8/Ex8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week2/day8/exercise_one.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week2/day8/func.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -56,6 +61,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/week2" />
       <recent name="$PROJECT_DIR$/week1/day3" />
       <recent name="$PROJECT_DIR$/week1/day4" />
       <recent name="$PROJECT_DIR$/week1" />
@@ -190,7 +196,63 @@
       <option name="project" value="LOCAL" />
       <updated>1701249755683</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="thritd day">
+      <option name="closed" value="true" />
+      <created>1701293776295</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1701293776295</updated>
+    </task>
+    <task id="LOCAL-00014" summary="thritd day">
+      <option name="closed" value="true" />
+      <created>1701588607397</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1701588607397</updated>
+    </task>
+    <task id="LOCAL-00015" summary="thritd day">
+      <option name="closed" value="true" />
+      <created>1701606428874</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1701606428874</updated>
+    </task>
+    <task id="LOCAL-00016" summary="6 day">
+      <option name="closed" value="true" />
+      <created>1701606478025</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1701606478025</updated>
+    </task>
+    <task id="LOCAL-00017" summary="6 day">
+      <option name="closed" value="true" />
+      <created>1701675187127</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1701675187127</updated>
+    </task>
+    <task id="LOCAL-00018" summary="6 day">
+      <option name="closed" value="true" />
+      <created>1701676163575</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1701676163575</updated>
+    </task>
+    <task id="LOCAL-00019" summary="6 day">
+      <option name="closed" value="true" />
+      <created>1701762169033</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1701762169033</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -208,7 +270,8 @@
     <MESSAGE value="first day" />
     <MESSAGE value="second day" />
     <MESSAGE value="thritd day" />
-    <option name="LAST_COMMIT_MESSAGE" value="thritd day" />
+    <MESSAGE value="6 day" />
+    <option name="LAST_COMMIT_MESSAGE" value="6 day" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -227,6 +290,11 @@
           <url>file://$PROJECT_DIR$/week1/day1/main.py</url>
           <line>108</line>
           <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/week2/day8/exercise_one.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
