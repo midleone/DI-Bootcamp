@@ -64,7 +64,7 @@ def add_fake_user():
                          "adress": 'd',
                          "langage_code": 'ww'}
     users.append(users_add)
-
+#
 for _ in range(5):
     add_fake_user()
 for user in users:
