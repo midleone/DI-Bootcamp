@@ -20,9 +20,19 @@ INSERT INTO SecondTab VALUES
 SELECT * FROM SecondTab
 SELECT COUNT(*) 
 FROM FirstTab AS ft WHERE ft.id NOT IN (SELECT id FROM SecondTab WHERE id IS NULL);
+##This query is counting the rows in FirstTab where the id is not present in SecondTab where id is NULL.
+   
 SELECT COUNT(*) 
 FROM FirstTab AS ft WHERE ft.id NOT IN (SELECT id FROM SecondTab WHERE id = 5);
+##This query is counting the rows in FirstTab where the id is not equal to 5 in SecondTab
+
+
 SELECT COUNT(*) 
 FROM FirstTab AS ft WHERE ft.id NOT IN (SELECT id FROM SecondTab);
+##This query is counting the rows in FirstTab where the id is not present in SecondTab.
+
+
 SELECT COUNT(*) 
 FROM FirstTab AS ft WHERE ft.id NOT IN (SELECT id FROM SecondTab WHERE id IS NOT NULL);
+##This query is counting the rows in FirstTab where the id is not present in SecondTab where id is not NULL.
+
