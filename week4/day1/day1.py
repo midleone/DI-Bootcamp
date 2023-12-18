@@ -28,7 +28,7 @@ personal_info = {
     "gender": "Male",
     "favorite_food": "Pizza"
 }
-print(personal_info)
+print(personal_info.values())
 
 # 6. Blood Alcohol Level
 bac = float(input("Enter your blood alcohol level: "))
