@@ -1,0 +1,29 @@
+ex 1
+A company’s financial reports stored in an Excel file:
+Type: Structured data
+
+Photographs uploaded to a social media platform:
+Type: Unstructured data
+
+A collection of news articles on a website:
+Type: Unstructured data
+
+Inventory data in a relational database:
+Type: Structured data
+
+Recorded interviews from a market research study:
+Type: Unstructured data
+
+ex2
+
+A series of blog posts about travel experiences:
+Method: Natural Language Processing (NLP) and Named Entity Recognition (NER)
+
+Audio recordings of customer service calls:
+Method: Speech-to-Text Transcription and Sentiment Analysis
+
+Handwritten notes from a brainstorming session:
+Method: Optical Character Recognition (OCR) and Categorization
+
+A video tutorial on cooking:
+Method: Video Transcription and Scene Analysis
