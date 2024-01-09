@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Static HTML Page</title>
+</head>
+<body>
+
+    <h1>Static HTML Page</h1>
+
+    <p>This is a static HTML page with no JavaScript.</p>
+
+    <ul>
+        <li>Item 1</li>
+        <li>Item 2</li>
+        <li>Item 3</li>
+    </ul>
+
+</body>
+</html>
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JavaScript-enhanced HTML Page</title>
+</head>
+<body>
+
+    <h1 id="dynamicHeading">JavaScript-enhanced HTML Page</h1>
+
+    <script>
+        // JavaScript to dynamically modify the content on page load
+        document.addEventListener('DOMContentLoaded', function() {
+            var dynamicHeading = document.getElementById('dynamicHeading');
+            dynamicHeading.textContent = 'JavaScript Modified This Heading!';
+        });
+    </script>
+
+    <p>This page uses JavaScript to dynamically modify the content.</p>
+
+    <ul>
+        <li>Item 1</li>
+        <li>Item 2</li>
+        <li>Item 3</li>
+    </ul>
+
+</body>
+</html>
