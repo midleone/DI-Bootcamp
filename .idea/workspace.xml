@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="79e5aebc-3766-4cf8-84cf-321e7b2df72d" name="Changes" comment="7 jan">
-      <change afterPath="$PROJECT_DIR$/week7/day1/ds2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week7/day1/webpage.html" afterDir="false" />
+    <list default="true" id="79e5aebc-3766-4cf8-84cf-321e7b2df72d" name="Changes" comment="8 jan">
+      <change afterPath="$PROJECT_DIR$/week7/day2/DS.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -66,16 +65,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/dianaageeva/Desktop/DI-Bootcamp",
-    "settings.editor.selected.configurable": "reference.settings.ide.settings.new.ui"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/dianaageeva/Desktop/DI-Bootcamp&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.ide.settings.new.ui&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/week1" />
@@ -477,7 +476,31 @@
       <option name="project" value="LOCAL" />
       <updated>1704617977605</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL-00046" summary="8 jan">
+      <option name="closed" value="true" />
+      <created>1704788734944</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1704788734944</updated>
+    </task>
+    <task id="LOCAL-00047" summary="8 jan">
+      <option name="closed" value="true" />
+      <created>1704914574622</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1704914574622</updated>
+    </task>
+    <task id="LOCAL-00048" summary="8 jan">
+      <option name="closed" value="true" />
+      <created>1704914618116</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1704914618116</updated>
+    </task>
+    <option name="localTasksCounter" value="49" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -502,7 +525,8 @@
     <MESSAGE value="10 day" />
     <MESSAGE value="11 day" />
     <MESSAGE value="7 jan" />
-    <option name="LAST_COMMIT_MESSAGE" value="7 jan" />
+    <MESSAGE value="8 jan" />
+    <option name="LAST_COMMIT_MESSAGE" value="8 jan" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
