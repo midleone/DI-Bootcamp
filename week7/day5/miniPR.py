@@ -23,9 +23,9 @@ plans = soup.find_all('div', class_='plan-details')
 
 data = []
 for plan in plans:
-    plan_name = plan.find('h2').text.strip()  # Adjust selector as needed
-    features = plan.find('ul').text.strip()  # Adjust selector as needed
-    price = plan.find('span', class_='price').text.strip()  # Adjust selector as needed
+    plan_name = plan.find('h2').text.strip() 
+    features = plan.find('ul').text.strip()  
+    price = plan.find('span', class_='price').text.strip()  
 
     data.append({
         'Plan Name': plan_name,
